@@ -1,0 +1,7 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<!-- Footer -->
+<footer class="container-fluid bg-4 text-center">
+  <p>허현규의 게시판 <a href="https://mail.naver.com/#%7B%22fClass%22%3A%22write%22%2C%22oParameter%22%3A%7B%22orderType%22%3A%22new%22%2C%22sMailList%22%3A%22%22%7D%7D">gusrb1954@naver.com</a></p> 
+</footer>

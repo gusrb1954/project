@@ -1,0 +1,15 @@
+127.0.0.1 - - [04/Apr/2021:23:28:55 +0900] "GET / HTTP/1.1" 404 807
+0:0:0:0:0:0:0:1 - - [04/Apr/2021:23:34:56 +0900] "GET /member/join HTTP/1.1" 404 822
+0:0:0:0:0:0:0:1 - - [04/Apr/2021:23:34:56 +0900] "GET /favicon.ico HTTP/1.1" 404 818
+0:0:0:0:0:0:0:1 - - [04/Apr/2021:23:35:17 +0900] "GET /board/main HTTP/1.1" 200 5834
+0:0:0:0:0:0:0:1 - - [04/Apr/2021:23:35:17 +0900] "GET /board/resources/js/bootstrap.js HTTP/1.1" 200 66732
+0:0:0:0:0:0:0:1 - - [04/Apr/2021:23:35:17 +0900] "GET /board/resources/css/chatstyle.css HTTP/1.1" 200 2993
+0:0:0:0:0:0:0:1 - - [04/Apr/2021:23:35:17 +0900] "GET /board/resources/css/style.css HTTP/1.1" 200 19
+0:0:0:0:0:0:0:1 - - [04/Apr/2021:23:35:17 +0900] "GET /board/resources/css/bootstrap.css HTTP/1.1" 200 141414
+0:0:0:0:0:0:0:1 - - [04/Apr/2021:23:35:17 +0900] "GET /board/resources/js/jquery-3.5.1.js HTTP/1.1" 200 298502
+0:0:0:0:0:0:0:1 - - [04/Apr/2021:23:35:17 +0900] "GET /board/localimg/ HTTP/1.1" 404 721
+0:0:0:0:0:0:0:1 - - [04/Apr/2021:23:35:17 +0900] "GET /board/resources/images/clouds.jpg HTTP/1.1" 200 118031
+0:0:0:0:0:0:0:1 - - [04/Apr/2021:23:35:50 +0900] "GET /board/main HTTP/1.1" 200 5833
+0:0:0:0:0:0:0:1 - - [04/Apr/2021:23:35:50 +0900] "GET /board/localimg/ HTTP/1.1" 404 721
+0:0:0:0:0:0:0:1 - - [04/Apr/2021:23:40:12 +0900] "GET /board/main HTTP/1.1" 200 5834
+0:0:0:0:0:0:0:1 - - [04/Apr/2021:23:40:16 +0900] "GET /board/main HTTP/1.1" 200 5832
